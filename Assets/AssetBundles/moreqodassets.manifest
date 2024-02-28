@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 4279517257
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2bff44b01c756a2418e05a791fe8fc80
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2bff44b01c756a2418e05a791fe8fc80
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Minimap_Marker_Epic.png
+- Assets/Minimap_Marker_Immortal.png
+- Assets/Minimap_Marker_Rare.png
+- Assets/Minimap_Marker_Common.png
+- Assets/Minimap_Marker_Simple.png
+- Assets/Minimap_Marker_Mythic.png
+Dependencies: []
