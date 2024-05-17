@@ -1,25 +1,47 @@
 ManifestFileVersion: 0
-CRC: 1723956781
+CRC: 2664447290
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: cb238f704a28d05050e706ed6828f7d8
+    Hash: ed39523596710e22327158bee8a52957
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 2612ac43db082a73502ee80f2eceb73f
+    Hash: 7337b52019e7a5d556295e15634d558c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: cb238f704a28d05050e706ed6828f7d8
+    Hash: ed39523596710e22327158bee8a52957
 HashAppended: 0
 ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
 - Class: 28
   Script: {instanceID: 0}
-SerializeReferenceClassIdentifiers: []
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 84a92b25f83d49b9bc132d206b370281, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_SpriteCharacter
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_SpriteGlyph
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphMetrics
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphRect
 Assets:
 - Assets/ShopTab_Reroll_Spr_01.png
+- Assets/Reroll_Icon.png
 - Assets/Minimap_Marker_Epic.png
 - Assets/Minimap_Marker_Immortal.png
 - Assets/Minimap_Marker_Rare.png
+- Assets/Reroll_Icon.asset
 - Assets/Minimap_Marker_Common.png
 - Assets/Minimap_Marker_Simple.png
 - Assets/ShopTab_Reroll_Spr_02.png
